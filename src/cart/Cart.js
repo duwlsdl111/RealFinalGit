@@ -1,7 +1,7 @@
 import React from "react";
 
 function Cart() {
-    return <h1>장바구니페이지</h1>;
+    return <h1>장바구니페이지 추가! 수정! 9/2</h1>;
 }
 
 export default Cart;
